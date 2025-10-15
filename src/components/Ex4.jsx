@@ -6,7 +6,13 @@ export default function Ex4() {
   return (
     <div className="my-8">
         <h1 className="text-2xl font-bold mb-4">Ex4 - Card Responsivo</h1>
-      {/* Resolva aqui */}
+      <div className="bg white border-2 rounded-b-lg mx-auto w-full max-w-md p-5 flex "> 
+
+
+
+
+
+      </div>
     </div>
   );
 }
